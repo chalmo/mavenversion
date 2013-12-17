@@ -12,7 +12,7 @@ import org.kohsuke.stapler.StaplerRequest;
 
 /**
  *
- * @author christer.moren@leanon.se
+ * @author christer.a.moren@gmail.com
  */
 public class MavenVersionColumn extends ListViewColumn {
     @Extension
